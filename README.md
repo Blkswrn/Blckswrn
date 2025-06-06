@@ -1,9 +1,6 @@
 <h1 align="center">📜 Refilwe Segele</h1>
 <p align="center"><i>"Code, like ink, tells a story beyond the surface."</i></p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/h4OGaGqq63vJx4KDnF/giphy.gif" width="180" alt="typewriter gif"/>
-</p>
 
 <p align="center">
   🎓 Computer Science Student | 🕯️ Dark Academia Dev | 📚 Seeker of Code & Knowledge  
@@ -55,11 +52,6 @@
 
 ---
 
-### 🧭 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RefilweSegele&show_icons=true&theme=gruvbox&hide_title=true" alt="Refilwe's GitHub stats" />
-</p>
 
 ---
 
